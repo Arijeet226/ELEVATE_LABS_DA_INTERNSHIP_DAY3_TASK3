@@ -28,7 +28,7 @@ City — city corresponding to the state, e.g., Miami, Los Angeles, Chicago, Dal
 
 Year-Month — derived period key in YYYY‑MM from Order Date for monthly grouping, e.g., 2023‑06
 
-## VISUALOZATION USED:-
+## VISUALIZATION USED:-
 Range slicer for day-of-month with dual handles and input boxes (1–31).
 
 Vertical month slicer, numeric day tiles, weekday slicer, and year slicer (chiclet/tile style).
@@ -44,3 +44,10 @@ Dual-series line chart: Sum of Profit and Sum of Amount by Day.
 Area/line chart of Sum of Profit by Year.
 
 Combo chart (clustered columns with line and secondary axis) for Profit and Quantity by Year.
+
+## SUMMARY 
+New York leads sales volume, followed by California and Florida, while profit is almost evenly split across Office Supplies, Furniture, and Electronics with only a small gap between them. These patterns suggest demand is concentrated in a few states, but profitability is balanced across product lines.
+
+Overall, totals show about 6.18M in sales amount, 1.61M in profit, and 13K units sold across the dataset. Profit peaks in 2022 at roughly 0.39M, then softens in 2023–2024, with 2025 currently low at 0.08M because the data only covers January–March year‑to‑date.
+
+Profit and units both peak in 2022, then moderate through 2024, while Thursday is the strongest weekday for both profit and sales amount across the full dataset. The daily curve also shows a mid‑week high and a Friday dip, suggesting promotion and staffing should be aligned to a Tuesday–Thursday surge window.
