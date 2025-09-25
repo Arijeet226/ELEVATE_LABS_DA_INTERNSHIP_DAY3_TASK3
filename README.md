@@ -51,3 +51,6 @@ New York leads sales volume, followed by California and Florida, while profit is
 Overall, totals show about 6.18M in sales amount, 1.61M in profit, and 13K units sold across the dataset. Profit peaks in 2022 at roughly 0.39M, then softens in 2023–2024, with 2025 currently low at 0.08M because the data only covers January–March year‑to‑date.
 
 Profit and units both peak in 2022, then moderate through 2024, while Thursday is the strongest weekday for both profit and sales amount across the full dataset. The daily curve also shows a mid‑week high and a Friday dip, suggesting promotion and staffing should be aligned to a Tuesday–Thursday surge window.
+
+**Screenshot of dashboard:**  
+![Preview of dashboard](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY3_TASK3/blob/bda9fef5415dbbdc1ebef52f13a416d6a7940639/Screenshot%202025-09-25%20173039.png)
