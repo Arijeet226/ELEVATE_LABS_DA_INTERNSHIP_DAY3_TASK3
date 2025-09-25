@@ -5,14 +5,42 @@ Dataset Used:- https://www.kaggle.com/datasets/shantanugarg274/sales-dataset
 
 ## ABOUT DATA
 Order ID — unique alphanumeric identifier for each order or line, for example B-26776.
+
 Amount — sales amount for the record (currency stored as numeric, e.g., 9726).
+
 Profit — profit associated with the record (numeric, e.g., 1275).
+
 Quantity — number of units sold (integer, e.g., 5).
+
 Category — top‑level product group such as Electronics, Furniture, or Office Supplies.
+
 Sub-Category — specific product type within the category, e.g., Printers, Pens, Electronic Games, Chairs, Tables.
+
 PaymentMode — payment method used, e.g., Credit Card, Debit Card, UPI, COD, EMI.
+
 Order Date — transaction date in M/D/YYYY format, e.g., 6/27/2023.
+
 CustomerName — customer’s full name, e.g., David Padilla.
+
 State — U.S. state, e.g., Florida, California, Texas, New York, Illinois, Ohio.
+
 City — city corresponding to the state, e.g., Miami, Los Angeles, Chicago, Dallas, Buffalo.
+
 Year-Month — derived period key in YYYY‑MM from Order Date for monthly grouping, e.g., 2023‑06
+
+## VISUALOZATION USED:-
+Range slicer for day-of-month with dual handles and input boxes (1–31).
+
+Vertical month slicer, numeric day tiles, weekday slicer, and year slicer (chiclet/tile style).
+
+Donut chart for Profit by Category (Office Supplies, Furniture, Electronics).
+
+Clustered column chart for Top 3 States by Quantity (New York, California, Florida).
+
+KPI cards showing Sum of Profit, Sum of Quantity, and Sum of Amount, plus context cards reflecting selections (e.g., April, Friday).
+
+Dual-series line chart: Sum of Profit and Sum of Amount by Day.
+
+Area/line chart of Sum of Profit by Year.
+
+Combo chart (clustered columns with line and secondary axis) for Profit and Quantity by Year.
