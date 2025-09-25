@@ -54,3 +54,5 @@ Profit and units both peak in 2022, then moderate through 2024, while Thursday i
 
 **Screenshot of dashboard:**  
 ![Preview of dashboard](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY3_TASK3/blob/bda9fef5415dbbdc1ebef52f13a416d6a7940639/Screenshot%202025-09-25%20173039.png)
+
+# --THANK YOU--
